@@ -1,5 +1,6 @@
 Seaborn Data Visualization Projects
-Overview
+
+Overview: 
 This repository features a series of data visualization projects that delve into various popular datasets using Python's Seaborn and Pandas libraries. The projects aim to demonstrate the power of visual data exploration to uncover insights and patterns. The datasets used include:
 
 1. Tips dataset: Analyzes tipping behavior in relation to meal times and party sizes.
